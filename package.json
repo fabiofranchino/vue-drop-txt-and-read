@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "marked": "^0.8.2",
+    "marked": "^4.0.10",
     "vue": "^2.6.11"
   },
   "devDependencies": {
